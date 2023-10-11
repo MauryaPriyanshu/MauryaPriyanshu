@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Priyanshu Maurya
 - 👀 I’m interested in Coding/programming, Web Development. My favourite programming language is Java but open to explore any of the language.
-- 🌱🎓 Currently I'm graduated B.Tech in Information Technology from SRMCEM with 8.32cgpa.
+- 🎓 Currently I'm graduated B.Tech in Information Technology from SRMCEM with 8.32cgpa.
+- 🌍 Exploring the world of code, one project at a time.
+- 📚 Passionate about technology and always eager to learn. 
 - 💞️ I’m looking to work on challenging position in the Company Where I can explore myself as well as contribute my knowladge in the success of the company.
 - 📫 How to reach me - https://www.linkedin.com/in/mauryapriyanshu/
 - 📧 Email Id- priyanshu9517@gmail.com
